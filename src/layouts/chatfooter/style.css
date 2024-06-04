@@ -1,0 +1,9 @@
+textarea:focus-visible {
+    /* border: 0 none #FFF; */
+    /* overflow: hidden; */
+    outline: none;
+}
+
+textarea {
+    /* resize: none; */
+}
